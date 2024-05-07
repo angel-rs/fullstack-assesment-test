@@ -1,5 +1,3 @@
-# fullstack-assesment-test
-
 # Frontend/Fullstack Assesment
 
 The goal of this test is to evaluate how fast you can deliver results as well as your problem solving and decision making skills.
