@@ -1,0 +1,62 @@
+[
+  {
+    "id": 100000001,
+    "type": "BUY",
+    "fiatCurrency": "VES",
+    "fiatAmount": 500,
+    "assetCurrency": "USDT",
+    "assetAmount": 10,
+    "status": "SUCCESS",
+    "description": "Compra de USDT"
+  },
+  {
+    "id": 100000002,
+    "type": "BUY",
+    "fiatCurrency": "COP",
+    "fiatAmount": 5000,
+    "assetCurrency": "USDT",
+    "assetAmount": 10,
+    "status": "SUCCESS",
+    "description": "Compra de USDT"
+  },
+  {
+    "id": 100000003,
+    "type": "SELL",
+    "fiatCurrency": "COP",
+    "fiatAmount": 5000,
+    "assetCurrency": "USDT",
+    "assetAmount": 10,
+    "status": "SUCCESS",
+    "description": "Venta de USDT"
+  },
+  {
+    "id": 100000004,
+    "type": "SELL",
+    "fiatCurrency": "COP",
+    "fiatAmount": 5000,
+    "assetCurrency": "USDT",
+    "assetAmount": 10,
+    "status": "PENDING",
+    "description": "Venta de USDT"
+  },
+  {
+    "id": 100000005,
+    "type": "PAY",
+    "fiatCurrency": "COP",
+    "fiatAmount": 5000,
+    "assetCurrency": "USDT",
+    "assetAmount": 10,
+    "status": "CANCELED",
+    "description": "Venta de USDT"
+  },
+  {
+    "id": 100000006,
+    "type": "PAY",
+    "fiatCurrency": "COP",
+    "fiatAmount": 5000,
+    "assetCurrency": "USDT",
+    "assetAmount": 10,
+    "status": "REFUNDED",
+    "description": "Venta de USDT"
+  }
+]
